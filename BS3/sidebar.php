@@ -6,6 +6,7 @@
 
         <ul class="nav">
             <li class="nav-item active">
+                <li>
                 <a class="nav-link" href="transaction.php">
                     <i class="nc-icon nc-paper-2"></i>
                     <p>Transactions</p>
@@ -29,5 +30,6 @@
                         <p>Account</p>
                 </a>
                 </li>
+            </li>
 
-            </ul>
+        </ul>
